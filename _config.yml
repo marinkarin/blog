@@ -34,7 +34,7 @@ links:
       url: marv.ink
       key_trigger: 1
     - title: my posts
-      posts: /posts
+      posts: marv.ink/posts
       key_trigger: 2
     - title: series
       url: /series
