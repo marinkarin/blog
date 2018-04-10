@@ -1,7 +1,7 @@
 # Site settings
 title: Marvin K
 description: "Now Loading"
-baseurl: "/" # for test: remove string '/space-jekyll-template' to ''
+baseurl: "/blog" # for test: remove string '/space-jekyll-template' to ''
 url: "marv.ink" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
 # User settings
@@ -49,6 +49,7 @@ links:
       url: http://www.github.com/marvinkhywah
       new_tab: true
       key_trigger: g
+
     - title: search
       url: ""
       key_trigger: s #WARNING: search only works with "s"
