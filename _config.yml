@@ -1,8 +1,8 @@
 # Site settings
 title: Marvin K
 description: "Now Loading"
-baseurl: "/blog" # for test: remove string '/space-jekyll-template' to ''
-url: "marv.ink/blog" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+baseurl: " " # for test: remove string '/space-jekyll-template' to ''
+url: "marv.ink/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
 # User settings
 username: Marvin K
@@ -30,10 +30,10 @@ compress_html:
 links:
   section_1:
     - title: home
-      url: marv.ink
+      url: /
       key_trigger: 1
     - title: my posts
-      url: marv.ink/posts
+      url: /posts
       key_trigger: 2
     - title: series
       url: /series
