@@ -1,9 +1,8 @@
 # Site settings
 title: Marvin K
 description: "Now Loading"
-baseurl: " " 
+baseurl: "/blog " 
 url: "marv.ink" 
-posts: " "
 
 # User settings
 username: Marvin K
