@@ -1,6 +1,6 @@
 
-##
-Blog built in jekyll using the space-jekyll-template
+## Jekyll Blog Website
+Blog built in jekyll using the lovely [space jekyll template](https://github.com/victorvoid/space-jekyll-template)
 
 
 ## License
