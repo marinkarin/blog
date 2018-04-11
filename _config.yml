@@ -3,6 +3,7 @@ title: Marvin K
 description: "Now Loading"
 baseurl: " " 
 url: "marv.ink" 
+posts: " "
 
 # User settings
 username: Marvin K
@@ -33,16 +34,16 @@ links:
       url: " "
       key_trigger: 1
     - title: my posts
-      url: posts
+      posts: /posts
       key_trigger: 2
     - title: series
-      url: series
+      url: /series
       key_trigger: 3
     - title: tags
-      url: tags
+      url: /tags
       key_trigger: 4
     - title: about me
-      url: about
+      url: /about
       key_trigger: 5
 
 # projects in header index
